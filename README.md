@@ -17,7 +17,7 @@ An AI-powered legal-tech solution designed to streamline the contract review pro
 ## 🧠 Technologies Used
 
 - Python
-- Scikit-learn, Transformers, Torch
+- Scikit-learn, Torch
 - Natural Language Processing (SpaCy, NLTK, or BERT)
 - Pandas & NumPy (data handling)
 - joblic (for saving models)
